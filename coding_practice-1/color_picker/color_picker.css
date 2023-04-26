@@ -1,0 +1,37 @@
+.bg-container {
+
+    height: 100vh;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.buttons {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+.para1 {
+    text-align: center;
+    font-size: 25px;
+    background-color: #222222;
+    color: white;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.para2 {
+    text-align: center;
+}
+
+
+.span {
+    color: #49a6e9;
+}
